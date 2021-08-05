@@ -1,0 +1,92 @@
+{
+  "files.autoSave": "afterDelay",
+  "workbench.editor.enablePreview": false,
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.fontSize": 16,
+  "python.showStartPage": false,
+  "editor.fontFamily": "cascadia code",
+  "editor.tabSize": 2,
+  "kite.showWelcomeNotificationOnStartup": false,
+  "python.testing.pytestEnabled": true,
+  "files.autoSaveDelay": 500,
+  "diffEditor.wordWrap": "on",
+  "editor.wordWrap": "on",
+  "editor.formatOnPaste": true,
+  "editor.fontLigatures": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "vsicons.dontShowNewVersionMessage": true,
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter.notebook.ipynb"
+  },
+  "python.pythonPath": "/usr/local/bin/python3",
+  "workbench.colorCustomizations": {
+    "[Material Theme]": {}
+  },
+  "window.title": "${dirty} ${activeEditorMedium}${separator}${rootPath}",
+  "editor.minimap.enabled": false,
+  "vscode-neovim.highlightGroups.unknownHighlight": null,
+  "vscode-neovim.highlightGroups.highlights": {
+    "Directory": "vim",
+    "IncSearch": {
+      "backgroundColor": "theme.editor.findMatchBackground",
+      "borderColor": "theme.editor.findMatchBorder"
+    },
+    "Search": {
+      "backgroundColor": "theme.editor.findMatchHighlightBackground",
+      "borderColor": "theme.editor.findMatchHighlightBorder"
+    },
+    "Visual": {
+      "backgroundColor": "theme.editor.selectionBackground"
+    },
+    "Conceal": "vim",
+    "Substitute": "vim"
+  },
+  "terminal.integrated.fontSize": 14,
+  "gitlens.advanced.messages": {
+    "suppressCreatePullRequestPrompt": true,
+    "suppressGitDisabledWarning": true,
+    "suppressRebaseSwitchToTextWarning": true
+  },
+  "git.autofetch": true,
+  "[git-rebase]": {
+    "workbench.editor.restoreViewState": false
+  },
+  "gitlens.views.repositories.branches.layout": "list",
+  "python.testing.cwd": "",
+  "testing.automaticallyOpenPeekViewDuringAutoRun": true,
+  "terminal.integrated.fontFamily": "monospace",
+  "editor.inlineHints.fontSize": 4,
+  "workbench.colorTheme": "Cobalt2",
+  "workbench.editor.untitled.hint": "hidden",
+  "files.exclude": {
+    "package-lock.json": true
+  },
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  "better-comments.highlightPlainText": true,
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.syntaxProfiles": {},
+  "emmet.preferences": {},
+  "[scss]": {
+    "editor.suggest.insertMode": "replace",
+    "gitlens.codeLens.scopes": [
+      "document"
+    ]
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "compressed",
+      "extensionName": ".min.css",
+      "savePath": "/dist"
+    }
+  ],
+  "liveSassCompile.settings.generateMap": false,
+  "editor.linkedEditing": true,
+  "editor.formatOnSave": true,
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.preferences.quoteStyle": "single",
+  "turboConsoleLog.includeFileNameAndLineNum": false,
+  "turboConsoleLog.delimiterInsideMessage": "",
+  "turboConsoleLog.quote": "'"
+}

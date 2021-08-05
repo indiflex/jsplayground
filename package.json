@@ -1,0 +1,20 @@
+{
+  "name": "playjs",
+  "version": "0.0.1",
+  "description": "JavaScript Playground",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Jade",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.30.0",
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-react": "^7.24.0",
+    "prettier": "^2.3.2"
+  }
+}

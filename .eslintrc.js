@@ -29,5 +29,7 @@ module.exports = {
     'func-names': 'off',
     'object-shorthand': 'off',
     'class-methods-use-this': 'off',
+    'no-use-before-define': 'off',
+    allowForLoopAfterthoughts: true,
   },
 };

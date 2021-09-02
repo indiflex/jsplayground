@@ -41,7 +41,7 @@
     "Conceal": "vim",
     "Substitute": "vim"
   },
-  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontSize": 16,
   "gitlens.advanced.messages": {
     "suppressCreatePullRequestPrompt": true,
     "suppressGitDisabledWarning": true,
@@ -75,6 +75,7 @@
   },
   "liveServer.settings.donotShowInfoMsg": true,
   "liveSassCompile.settings.formats": [
+    
     {
       "format": "compressed",
       "extensionName": ".min.css",
@@ -88,5 +89,6 @@
   "typescript.preferences.quoteStyle": "single",
   "turboConsoleLog.includeFileNameAndLineNum": false,
   "turboConsoleLog.delimiterInsideMessage": "",
-  "turboConsoleLog.quote": "'"
+  "turboConsoleLog.quote": "'",
+  "breadcrumbs.enabled": false
 }

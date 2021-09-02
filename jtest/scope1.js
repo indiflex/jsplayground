@@ -28,14 +28,14 @@
 // }
 // f1();
 
-function fscope() {
-  const t = true;
-  if (t) {
-    console.log('inside if block');
-    var v = 1;
-    const x = 3;
-    console.log(v, x);
-  }
-  console.log(typeof v, typeof x);
-}
-fscope();
+// function fscope() {
+//   const t = true;
+//   if (t) {
+//     console.log('inside if block');
+//     var v = 1;
+//     const x = 3;
+//     console.log(v, x);
+//   }
+//   console.log(typeof v, typeof x);
+// }
+// fscope();
